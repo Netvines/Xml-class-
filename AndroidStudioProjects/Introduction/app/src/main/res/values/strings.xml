@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Introduction</string>
+    <string name="name_hint">eneter your name</string>
+</resources>
